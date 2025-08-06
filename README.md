@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on some exciting **React** projects  
 - 🌱 I’m growing strong with **TypeScript, Tailwind, and Redux**  
-- 🌐 My portfolio: [soumadip-portfolio.vercel.app](https://soumadip-portfolio.vercel.app/)  
+- 🌐 My portfolio: [soumadip-portfolio.web.app/](https://soumadip-portfolio.web.app/)  
 - 📫 Reach me: **soumodipghoshchowdhury912@gmail.com**  
 - 📄 Resume: [View here](https://drive.google.com/file/d/1PcIYBJeQHstKVvKn9MlT9xx2CGsK18f0/view?usp=drive_link)
 
