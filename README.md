@@ -1,60 +1,119 @@
-<!-- Header Banner -->
+<!-- Vibrant Gradient Header -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/e25d173d73b3b9ea132e4b1ad6ac45ce715bd826e6b6947010d05c24e91fd125/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067" alt="banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=32,33,34,35&height=260&section=header&text=Soumadip%20Ghosh%20Chowdhury&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js&descAlignY=58&descAlign=62&animation=twinkling" />
 </p>
 
-<h1 align="center">Hey there! 👋 I'm <span style="color:#f7b93e;">Soumadip Ghosh Chowdhury</span></h1>
+<h2 align="center" style="margin:0;padding:0;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="wave"/> 
+  Crafting clean, scalable & delightful web experiences
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7B93E&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%94%A5;React+Lover+%F0%9F%96%A5%EF%B8%8F;Tech+Explorer+%F0%9F%9A%80;Creative+Thinker+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+build+frontend+things;they+look+good;and+usually+work+on+first+load)](https://git.io/typing-svg" />
 </p>
 
----
-
-### 🧠 About Me
-
-- 🔭 I’m currently working on some exciting **React** projects  
-- 🌱 I’m growing strong with **TypeScript, Tailwind, and Redux**  
-- 🌐 My portfolio: [soumadip-portfolio.web.app/](https://soumadip-portfolio.web.app/)  
-- 📫 Reach me: **soumodipghoshchowdhury912@gmail.com**  
-- 📄 Resume: [View here](https://drive.google.com/file/d/1PcIYBJeQHstKVvKn9MlT9xx2CGsK18f0/view?usp=drive_link)
+<br>
 
 ---
 
-### 🔗 Connect with me
+<div align="center">
 
+## 👨‍💻 About Me
+
+Passionate **Frontend Developer** building modern, high-performance applications with **React, Next.js & TypeScript**.  
+I turn complex requirements into intuitive, elegant interfaces that users love.
+
+**Specializing in:** Admin Dashboards • Analytics Platforms • Secure Authentication • Media Systems • Immersive 3D UIs
+
+</div>
+
+<div align="center">
+
+| 🌐 Portfolio | 📫 Email | 📄 Resume |
+|-------------|----------|-----------|
+| [soumadip-portfolio.web.app](https://soumadip-portfolio.web.app/) | soumodipghoshchowdhury912@gmail.com | [View Resume](https://drive.google.com/file/d/1PcIYBJeQHstKVvKn9MlT9xx2CGsK18f0/view) |
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Professional Experience
+
+### 🚀 Frontend Developer • ObjectSol Technologies Pvt. Ltd.  
+**2024 – Present**
+
+<div align="left">
+  
+- Engineered production-grade **React & Next.js** applications with clean architecture
+  
+- Designed and built **feature-rich admin dashboards** featuring real-time analytics, charts & RBAC
+  
+- Integrated complex **REST APIs**, secure authentication flows & media processing pipelines
+  
+- Implemented protected routes, token management & performance optimizations
+  
+- Delivered responsive, accessible designs with pixel-perfect implementation
+  
+- Collaborated cross-functionally with backend & design teams
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+### Frontend & Frameworks
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,framer" /><br><br>
+
+### Design & UI Tools
+<img src="https://skillicons.dev/icons?i=figma,shadcn" /><br><br>
+
+### 3D & Motion
+<img src="https://skillicons.dev/icons?i=threejs" /><br>
+`three.js` • `@react-three/fiber` • `@react-three/drei`
+
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔗 Let's Connect
+
+<a href="https://linkedin.com/in/soumadip-ghosh-chowdhury-5b9787112/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/soumodip_002">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://instagram.com/soumodip_bittu">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## ✨ Philosophy
+
+> **"Simple on the outside, thoughtfully engineered inside."**  
+> I build experiences that feel effortless — powered by clean code, performance, and attention to detail.
+
+</div>
+
+<br>
+
+<!-- Vibrant Gradient Footer -->
 <p align="center">
-  <a href="https://twitter.com/soumodip_002"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/soumadip-ghosh-chowdhury-5b9787112/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://instagram.com/soumodip_bittu"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" /></a>
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,typescript,tailwind,sass,git,github,figma,linux,vscode,c,python" />
-</p>
-
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumodip002&show_icons=true&theme=radical&border_radius=10&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumodip002&layout=compact&theme=radical&border_radius=10" width="49%" />
-</p>
-
----
-
-### ⚡ Fun Fact
-
-> **"I don't just write code, I design user experiences."**  
-> I believe in building web apps that not only function well but also **look and feel amazing**! 🎨💻
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=32,33,34,35&height=180&section=footer&animation=twinkling" />
 </p>
